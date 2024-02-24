@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>I_Love_You.6534d3b5-d307-11ee-8b2f-4cd577df7666.jpg</filename>
+	<path>D:\Sign_language_tool\Tensorflow\workspace\images\collectedimages\I_Love_You.6534d3b5-d307-11ee-8b2f-4cd577df7666.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I_Love_You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>149</ymin>
+			<xmax>568</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

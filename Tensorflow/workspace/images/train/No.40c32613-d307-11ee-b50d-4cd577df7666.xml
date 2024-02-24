@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>No.40c32613-d307-11ee-b50d-4cd577df7666.jpg</filename>
+	<path>D:\Sign_language_tool\Tensorflow\workspace\images\collectedimages\No.40c32613-d307-11ee-b50d-4cd577df7666.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>186</ymin>
+			<xmax>401</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
